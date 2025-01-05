@@ -8,7 +8,7 @@ var
     status: Boolean;
     
 begin
-
+LEITURA E IMPRESSAO DE DADOS
     write('Informe uma letra: ');
     readln(letra);
     write('Informe seu nome: ');
